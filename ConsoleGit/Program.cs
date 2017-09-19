@@ -10,6 +10,7 @@ namespace ConsoleGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Git_Flow");
         }
     }
 }
