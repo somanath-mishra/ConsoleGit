@@ -8,9 +8,10 @@ namespace ConsoleGit
 {
     class Program
     {
-        static void Main(string[] args)
+        private string name="Git_Flow-1";
+       public static void Main(string[] args)
         {
-            Console.WriteLine("Git_Flow");
+            Console.WriteLine("Git_Flow-1");
         }
     }
 }
